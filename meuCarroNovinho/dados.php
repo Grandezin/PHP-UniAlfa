@@ -34,7 +34,7 @@
                        "modelo"=>"Territory",
                        "acessorios"=>"Completo",
                        "valor"=>150000,
-                       "foto"=>"Completo");
+                       "foto"=>"imagens/7.jpg");
     $carros[8] = array("id"=>8,
                        "modelo"=>"Ranger",
                        "acessorios"=>"Completo",

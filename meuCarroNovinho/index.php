@@ -69,7 +69,11 @@
                 include "paginas/erro.php";
             }
         ?>
+        
     </main>
+    <footer class="footer">
+        <p>Desenvolvido pelo Grandão</p>
+    </footer>
     
 </body>
 </html>
